@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center"> Olá! Sophia Giordano aqui! 😁 </h1> 
+
+
+-👩🏼‍💻 Faço técnico em informática 
+-👾 Procuro um estágio na área de backend (python) ou frontend (HTML, CSS) 
+-📩 Contate-me com o email: sophiagiords@gmail.com 
 
 <!--
 **SophiaGS24/SophiaGS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
