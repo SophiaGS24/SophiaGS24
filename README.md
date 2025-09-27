@@ -3,6 +3,7 @@
 
 -👩🏼‍💻 Faço técnico em informática 
 -👾 Procuro um estágio na área de backend (python) ou frontend (HTML, CSS) 
+-💻 Meu portfólio: https://preview--portfolio-senior-dev.lovable.app/
 -📩 Contate-me com o email: sophiagiords@gmail.com 
 
 <!--
